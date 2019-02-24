@@ -11,4 +11,4 @@ This is the place where you can find a list with all my projects:
 
 ### Contact
 
-You can say hi on [my website](https://www.radu-c.com/), [Twitter](https://twitter.com/constradu) or [Instagram](https://www.instagram.com/constradu/).
+You can say hi on [my website](https://www.radu-c.com/), [Twitter](https://twitter.com/constradu) or [Instagram](https://www.instagram.com/constradu/) :wave:
