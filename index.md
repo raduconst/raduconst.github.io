@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/raduconst/raduconst.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a WordPress enthusiast and a friendly support engineer. I'm also curious about web development and a two-wheel driver in my spare time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the place where you can find a list with all my projects:
 
-### Markdown
+* [React Catalog](https://raduconst.github.io/react-catalog/): A simple React app created to practice props, states, or simple components like Routes;
+* [React Native App](https://raduconst.github.io/react-native-app/): A React Native app with basic elements. The projects contains tabs, login form and many other elements.
+* [Begonia Lite](https://raduconst.github.io/begonia/): Begonia is a [free WordPress theme](https://wordpress.org/themes/begonia-lite/) made to experiment with a pretty different grid.
+* [Envato Comments](http://raduconst.github.io/envato-comments/): A very useful Chrome extension for ThemeForest authors that need quick access to the latest comments of their products.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raduconst/raduconst.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can say hi on [my website](https://www.radu-c.com/), [Twitter](https://twitter.com/constradu) or [Instagram](https://www.instagram.com/constradu/).
